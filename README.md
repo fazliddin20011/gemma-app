@@ -1,16 +1,6 @@
-# gemma_rag
+# gemma_app
 
-A new Flutter project.
+Flutter application for inferencing with .task, .tflite, etc. models.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2025-08-07_06-20-36](https://github.com/user-attachments/assets/6747dee9-9780-4311-95c5-8242b10f0eb7)
+![photo_2025-08-07_04-53-31](https://github.com/user-attachments/assets/760985cf-0279-4ec9-a7b9-0053c3638e42)
