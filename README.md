@@ -1,6 +1,8 @@
 # gemma_app
 
-Flutter application for inferencing with .task, .tflite, etc. models.
+Flutter application for offline inferencing with .task, .tflite, etc. LLM models.
+</br>
+</br>
+[![Video](https://github.com/user-attachments/assets/9f6da3b0-2bcb-40ee-af14-43963c58a74e)](https://youtu.be/m_uAv8h46_Y?si=zjnpPYvtBhk_Q0k3)
 
-![photo_2025-08-07_06-20-36](https://github.com/user-attachments/assets/6747dee9-9780-4311-95c5-8242b10f0eb7)
-![photo_2025-08-07_04-53-31](https://github.com/user-attachments/assets/760985cf-0279-4ec9-a7b9-0053c3638e42)
+
